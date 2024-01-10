@@ -1,2 +1,0 @@
-# calculadoraDeAcoes
-Calculadora de Ações 
